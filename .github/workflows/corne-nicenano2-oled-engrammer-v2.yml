@@ -15,4 +15,6 @@ jobs:
       ]'
       alphas: '["engrammer"]'
       extra: '["qwerty"]'
+      kconfig: '["CONFIG_ZMK_DISPLAY=y"]'
+
 
