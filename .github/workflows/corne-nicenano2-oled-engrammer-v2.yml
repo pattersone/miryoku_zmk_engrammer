@@ -14,8 +14,5 @@ jobs:
       extra: '["qwerty"]'
       kconfig: '[
        "CONFIG_ZMK_DISPLAY=y",
-       "CONFIG_ZMK_WIDGET_LAYER_STATUS=y",
-       "CONFIG_ZMK_WIDGET_BATTERY_STATUS=y",
-       "CONFIG_ZMK_WIDGET_BLE_STATUS=y",
      ]'
 
