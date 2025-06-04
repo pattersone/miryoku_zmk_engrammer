@@ -1,4 +1,4 @@
-name: 'corne nice_nano_v2 nice_view engrammer attempt'
+name: 'corne nice_nano_v2 oled engrammer'
 
 on:
   workflow_dispatch:
